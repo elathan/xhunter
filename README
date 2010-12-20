@@ -1,3 +1,4 @@
-xHunter is a URL processor designed for the detection of XSS exploitation.
+xHunter is a URL processor designed for the detection of XSS exploitation and
+other web attacks based on JavaScript injection.
 
 (c) Elias Athanasopoulos (elathan@ics.forth.gr), 2009-2010.
